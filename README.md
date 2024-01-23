@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Relevant Coursework: Digital Systems Design, Microprocessors, Computer Architecture, Embedded Systems, Machine Learning, Data Structures and Algorithms, Operating Systems, CS50 Harvard Computer Science course 
+
+Technical Skills
+Programming Languages: C/C++, Python, Javascript, MySQL, Assembly Language
+Tools & Technologies: Linux, Git, Docker, AWS, FPGA, Arduino, Raspberry Pi
+Software Development: Object-Oriented Programming, Agile Methodologies, Software Testing
+
+Hardware Skills: Circuit Design, PCB Layout, Microcontroller Programming
+Other Skills: Machine Learning, Artificial Intelligence, IoT Solutions
+
 <!--
 **Bananaslug777/Bananaslug777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
